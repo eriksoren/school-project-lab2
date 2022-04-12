@@ -1,0 +1,13 @@
+/Users/eriksorlin/Projects/lab2/lab2/bin/Debug/netcoreapp3.1/lab2.deps.json
+/Users/eriksorlin/Projects/lab2/lab2/bin/Debug/netcoreapp3.1/lab2.runtimeconfig.json
+/Users/eriksorlin/Projects/lab2/lab2/bin/Debug/netcoreapp3.1/lab2.runtimeconfig.dev.json
+/Users/eriksorlin/Projects/lab2/lab2/bin/Debug/netcoreapp3.1/lab2.dll
+/Users/eriksorlin/Projects/lab2/lab2/bin/Debug/netcoreapp3.1/lab2.pdb
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.csproj.AssemblyReference.cache
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.AssemblyInfoInputs.cache
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.AssemblyInfo.cs
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.csproj.CoreCompileInputs.cache
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.dll
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.pdb
+/Users/eriksorlin/Projects/lab2/lab2/obj/Debug/netcoreapp3.1/lab2.genruntimeconfig.cache
